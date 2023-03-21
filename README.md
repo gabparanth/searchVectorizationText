@@ -1,0 +1,2 @@
+# searchVectorizationText
+# searchVectorizationText
